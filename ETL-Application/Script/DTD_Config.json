@@ -1,0 +1,22 @@
+{
+  "ConfigVersion": "1.0",
+  "LogPath": "D:\\Broadcom\\ETL\\ETL-Application\\Script\\Logs\\",
+  "NoOfDaystoKeepLog": 10,
+  "LogFileName": "{0}{1}'yyyyMMdd_hhmmss'.log",
+  "OldLogSearchRegex": "\".*?(\\d{4})-(\\d{2})-(\\d{2})_(\\d{2})(\\d{2})(\\d{2})\\\"",
+
+  "DbConfig": {
+    "ConnectionString": "Server=MSSQLSERVER;Trusted_Connection=true;database=HR",
+    "NoOfDBConnAttempts": 3,
+    "MigrationConfigTable": "MigrationConfig"
+  },
+  "SMTPDetails": 
+    {
+      "SMTPServer": "XX.XXX.XXX.X",
+      "EmailFromAddress": "PDL@BROADCOM.COM",
+      "EmailToAddresses": "Yogesh.Sharma@Broadcom.com",
+      "ErrorEmailList": "Yogesh.Sharma@Broadcom.com",
+      "ErrorSubject": "Database To Database Migration Error Report!!!!!!",
+      "SucessSubject": "Database To Database Migration completion Report"
+    }
+}

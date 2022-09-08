@@ -1,0 +1,14 @@
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\DTD-Migration.exe.config
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\DTD-Migration.exe
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\DTD-Migration.pdb
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\Newtonsoft.Json.dll
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\NLog.dll
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\Newtonsoft.Json.xml
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\NLog.xml
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.csproj.AssemblyReference.cache
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.csproj.SuggestedBindingRedirects.cache
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.csproj.CoreCompileInputs.cache
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.csproj.CopyComplete
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.exe
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\obj\Debug\DTD-Migration.pdb
+D:\Broadcom\ETL\Code\DTD-Migration\DTD-Migration\bin\Debug\NLog.config

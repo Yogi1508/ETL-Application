@@ -1,0 +1,22 @@
+{
+  "ConfigVersion": "1.0",
+  "LogPath": "D:\\Broadcom\\ETL\\Code\\Logs\\",
+  "NoOfDaystoKeepLog": 10,
+  "LogFileName": "{0}{1}'yyyyMMdd_hhmmss'.log",
+  "OldLogSearchRegex": "\".*?(\\d{4})-(\\d{2})-(\\d{2})_(\\d{2})(\\d{2})(\\d{2})\\\"",
+
+  "DbConfig": {
+    "ConnectionString": "Server=YOGESH-PC;Trusted_Connection=true;database=HR",
+    "NoOfDBConnAttempts": 3,
+    "MigrationConfigTable": "MigrationConfig"
+  },
+  "SMTPDetails": 
+    {
+      "SMTPServer": "XX.XXX.XXX.X",
+      "EmailFromAddress": "PDL@BROADCOM.COM",
+      "EmailToAddresses": "Yogesh.Sharma@conduent.com",
+      "ErrorEmailList": "Yogesh.Sharma@conduent.com",
+      "ErrorSubject": "Database To Database Migration Error!!!!!!",
+      "SucessSubject": "Database To Database Migration Report"
+    }
+}
